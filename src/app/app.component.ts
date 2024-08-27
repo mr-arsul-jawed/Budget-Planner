@@ -24,7 +24,7 @@ export class AppComponent implements OnInit {
   ngOnInit() {
     // Check if the current URL is the root URL
     if (this.router.url === '/') {
-      this.router.navigate(['/budget-planner/login']);
+      this.router.navigate(['/budget-planner/dashboard']);
     }
   }
 }
