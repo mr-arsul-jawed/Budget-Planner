@@ -1,5 +1,10 @@
 node_modules
-# Test change to check Git
-.angular/
-dist/
-node_modules/
+node_modules
+# node_modules
+.angular
+dist
+# Angular-specific ignore
+.angular/cli.json
+.angular/*.json
+e2e/
+coverage/
