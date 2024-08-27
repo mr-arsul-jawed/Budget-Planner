@@ -1,0 +1,13 @@
+{
+  "routes": [
+    "/budget-planner",
+    "/budget-planner/dashboard",
+    "/budget-planner/expense",
+    "/budget-planner/history",
+    "/budget-planner/income",
+    "/budget-planner/login",
+    "/budget-planner/profile",
+    "/budget-planner/side-nav",
+    "/budget-planner/todo"
+  ]
+}
